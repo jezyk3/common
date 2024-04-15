@@ -1,9 +1,9 @@
 ---
 # Sprawy ogólne
-my_lpar_name: "commonXX"
+my_lpar_name: "common03"
 # Hostname i nazwa LPARu. Zamień 00 na numer Twojego
 użytkownika
-my_hdisk: "hdiskX"
+my_hdisk: "hdiskx"
 # Nazwa mojego LUNu tak jak go widzą VIOSy. Uwaga, w rożnych
 viosach mogą być różne nazwy!
 my_power: "S824-6013"
